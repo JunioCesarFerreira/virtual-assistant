@@ -1,0 +1,5 @@
+install:
+pip install SpeechRecognition
+pip install puttsx3
+pip install PyAudio
+pip install pywhatkit
